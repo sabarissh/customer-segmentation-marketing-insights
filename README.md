@@ -32,3 +32,5 @@ The final output includes:
 - Reduced data prep time by **30%** via optimized SQL queries.
 
 ---
+
+## 📂 Folder Structure
